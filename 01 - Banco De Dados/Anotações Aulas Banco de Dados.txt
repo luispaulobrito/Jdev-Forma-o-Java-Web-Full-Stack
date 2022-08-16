@@ -1,3 +1,4 @@
 Criar pacote conexão - Criar uma classe pra conectar com o banco de dados
 Criar pacote model - Criar uma classe pra colocar as tabelas do banco com suas colunas
-Criar pacote DAO - Criar uma classe pra realizar as operações no banco de dados
+Criar pacote DAO - Criar uma classe pra realizar as operações no banco de dados com métodos criar, listar, buscar, atualizar e deletar
+Criar classe de teste para chamar os métodos do DAO
